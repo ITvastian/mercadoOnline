@@ -1,0 +1,17 @@
+[
+    {
+        "title": "titulo de lo que se vende",
+        "description": "descripcion de lo que se vende Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis culpa amet, facere tempore quis harum voluptas mollitia nesciunt veritatis, ex corrupti similique voluptate sapiente, cumque modi? Ut exercitationem voluptas facere reprehenderit esse. Ipsam, cumque reprehenderit, odit debitis id consequuntur non ducimus et sit reiciendis nam rerum doloribus quaerat repudiandae saepe consequatur quisquam beatae voluptatibus ad accusantium quas. Mollitia porro excepturi eos? Illo incidunt atque quisquam. Nesciunt vel incidunt, suscipit et aliquid sapiente, eveniet voluptatum veniam iusto at quae repudiandae, cum similique sit error voluptates laudantium amet quaerat enim eum facere nemo. Impedit deleniti aperiam dicta pariatur earum placeat ut voluptate!",
+        "image": "public/images/shopping.svg"
+    },
+    {
+        "title": "titulo de lo que se vende",
+        "description": "descripcion de lo que se vende Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis culpa amet, facere tempore quis harum voluptas mollitia nesciunt veritatis, ex corrupti similique voluptate sapiente, cumque modi? Ut exercitationem voluptas facere reprehenderit esse. Ipsam, cumque reprehenderit, odit debitis id consequuntur non ducimus et sit reiciendis nam rerum doloribus quaerat repudiandae saepe consequatur quisquam beatae voluptatibus ad accusantium quas. Mollitia porro excepturi eos? Illo incidunt atque quisquam. Nesciunt vel incidunt, suscipit et aliquid sapiente, eveniet voluptatum veniam iusto at quae repudiandae, cum similique sit error voluptates laudantium amet quaerat enim eum facere nemo. Impedit deleniti aperiam dicta pariatur earum placeat ut voluptate!",
+        "image": "public/images/shopping.svg"
+    },
+    {
+        "title": "titulo de lo que se vende",
+        "description": "descripcion de lo que se vende Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis culpa amet, facere tempore quis harum voluptas mollitia nesciunt veritatis, ex corrupti similique voluptate sapiente, cumque modi? Ut exercitationem voluptas facere reprehenderit esse. Ipsam, cumque reprehenderit, odit debitis id consequuntur non ducimus et sit reiciendis nam rerum doloribus quaerat repudiandae saepe consequatur quisquam beatae voluptatibus ad accusantium quas. Mollitia porro excepturi eos? Illo incidunt atque quisquam. Nesciunt vel incidunt, suscipit et aliquid sapiente, eveniet voluptatum veniam iusto at quae repudiandae, cum similique sit error voluptates laudantium amet quaerat enim eum facere nemo. Impedit deleniti aperiam dicta pariatur earum placeat ut voluptate!",
+        "image": "public/images/shopping.svg"
+    }
+]
